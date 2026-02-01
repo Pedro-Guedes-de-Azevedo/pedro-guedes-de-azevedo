@@ -1,6 +1,6 @@
 
-- 🔭 Atualmente envolvido com front-end
-- 🌱 Estudando react
+- 📲 Atualmente envolvido com embedded systems
+- ☕ Estudando Java
 - 📫 Contato: pedroguazevedo123@gmail.com
  
 
@@ -9,7 +9,7 @@
   <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img align="center" alt="Pedro-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
   
@@ -21,9 +21,10 @@
   <a href="https://www.linkedin.com/in/pedro-guedes-de-azevedo-70aa84265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<!--
  <div>
 <a href="https://github.com/guedespedro">
-<!--<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=guedespedro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github"/>-->
+<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=guedespedro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github"/>
 <img height="160em" width=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedespedro&layout=compact&langs_count=16&theme=dracula"/>
 </a>
-</div>
+</div> -->
